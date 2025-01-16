@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 lenguages
 corean
 Spanish 
 english
+=======
+Skills
+
+Multilingual: Fluent in English, Spanish, and Korean
+Strong mindset and problem-solving attitude
+Ability to prioritize logic and reasoning over emotions in decision-making
+>>>>>>> bio-update
